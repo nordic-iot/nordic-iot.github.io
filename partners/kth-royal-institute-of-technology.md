@@ -1,0 +1,16 @@
+---
+title: "KTH Royal Institute of Technology"
+permalink: /partners/kth-royal-institute-of-technology/
+---
+
+Since its founding in 1827, [KTH Royal Institute of Technology](http://www.kth.se/) in Stockholm has grown to become one of Europe’s leading technical and engineering universities, as well as a key center of intellectual talent and innovation. We are Sweden’s largest technical research and learning institution and home to students, researchers and faculty from around the world dedicated to advancing knowledge. KTH is working with industry and society in the pursuit of sustainable solutions to some of humanity’s greatest challenges: climate change, future energy supply, urbanization and quality of life for the rapidly-growing elderly population. We are addressing these with world-leading, high-impact research and education in natural sciences and all branches of engineering, as well as in architecture, industrial management, urban planning, history, and philosophy. Almost two-thirds of the SEK 4 billion turnovers relates to research.
+
+Internationalization is a key priority at KTH and as an approach in all of KTH’s operations, an essential tool in becoming a world-leading technical institution. KTH has entered into strategic partnerships with a number of leading universities in different regions. For example, AALTO is a strategic partner, and besides AALTO, NTNU and DTU are partners in N5T. KTH has further developed a number of strategic collaborations with industrial and public partners, seeing the necessity for collaborative efforts to deal with future societal challenges. IIoT is one important component of such collaboration and relates to the Digital Demo Stockholm (DDS) initiative which aims at strengthening Stockholm as an internationally leading ICT city.
+
+KTH is currently developing its strategy for industrial digitalization, with an effort to unite various competencies and efforts within KTH. KTH has been actively pursuing IIoT: Industrial Digitalization is a strongly prioritized area, see the Strategic Research Areas (SRAs) proposed by KTH and funded by the Swedish government, especially *ICT Next Generation* and *Excellence in production research*. KTH is a partner of Swedish Innovation programs Produktion 2030, Smarter Electronics, DriveSweden, and SmartCities. KTH initiated in 2015 the new IoT incubator–THINGS–located at KTH.
+
+**KTH – Innovative Centre for Embedded Systems**
+
+The KTH hub is anchored with the Innovative Centre for Embedded Systems – ICES ([www.ices.kth.se](http://www.ices.kth.se/)). The strength of ICES lies in the industrial network of partners and in the coverage of key multidisciplinary competences of Cyber-Physical and IoT systems, encompassing both academic and industrial experts. Competences include system and architecture design, end-to end communication performance, safety and security engineering, and verification, as well model-based engineering methodologies for the analysis, design, verification and systems management. The center involves researchers from multiple research groups at KTH, in particular from the schools of Industrial Engineering and Management, and the Electrical Engineering and Management.
+
+![](/assets/uploads/2018/04/fasad.jpg)

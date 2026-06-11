@@ -1,0 +1,8 @@
+title: Nordic IoT Hub
+description: "HI2OT — Nordic University Hub on Industrial Internet of Things (NordForsk grant 86220, 2018–2024)"
+url: "https://www.nordic-iot.org"
+markdown: kramdown
+exclude: [README.md, PRD.md]
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
